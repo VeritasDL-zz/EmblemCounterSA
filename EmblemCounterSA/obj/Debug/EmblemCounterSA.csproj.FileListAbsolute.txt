@@ -1,0 +1,10 @@
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\bin\Debug\EmblemCounterSA.exe.config
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\bin\Debug\EmblemCounterSA.exe
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\bin\Debug\EmblemCounterSA.pdb
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\bin\Debug\MetroFramework.dll
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\obj\Debug\EmblemCounterSA.csprojResolveAssemblyReference.cache
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\obj\Debug\EmblemCounterSA.Form1.resources
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\obj\Debug\EmblemCounterSA.Properties.Resources.resources
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\obj\Debug\EmblemCounterSA.csproj.GenerateResource.Cache
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\obj\Debug\EmblemCounterSA.exe
+c:\users\veritas\documents\visual studio 2012\Projects\EmblemCounterSA\EmblemCounterSA\obj\Debug\EmblemCounterSA.pdb
